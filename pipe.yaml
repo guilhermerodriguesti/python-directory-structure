@@ -1,0 +1,14 @@
+name: Create Directoy
+variables:
+  - name: account
+    default: "questoes"
+  - name: app_env
+    default: "dev"
+  - name: region
+    default: "sa-east-1"
+  - name: technology
+    default: "ecs-cluster"
+  - name: app_type
+    default: "api"
+  - name: service
+    default: "backoffice-api"
