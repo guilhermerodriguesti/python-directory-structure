@@ -1,0 +1,9 @@
+{
+    "id":"qq coisa",
+    "region":"us-east-1",
+    "cluster":"ecs",
+    "name":"service",
+    "alb":"my-alb",
+    "dns":"example.com",
+    "destroy":true
+ }
